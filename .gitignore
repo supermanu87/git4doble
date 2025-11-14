@@ -1,0 +1,4 @@
+.DS_Store
+vendor/*
+npm_modules/*
+*.bin
